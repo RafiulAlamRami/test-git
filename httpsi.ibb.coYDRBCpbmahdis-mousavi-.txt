@@ -1,0 +1,39 @@
+https://i.ibb.co/YDRBCpb/mahdis-mousavi-T4-zz-N0t-KA-unsplash.jpg
+https://i.ibb.co/mCzrHYV/rodolfo-sanches-carvalho-Cs-Nac-HXW6-RU-unsplash.jpg
+https://i.ibb.co/nC5mT0N/brooke-cagle-R8b-NESnn-KR8-unsplash.jpg
+https://i.ibb.co/vH4SLn9/annie-spratt-Qckxruozj-Rg-unsplash.jpg
+https://i.ibb.co/kSVrKJy/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg
+https://i.ibb.co/VH2KL5R/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg
+
+react tostyfy
+
+
+https://i.ibb.co/8gGwcqZ/Banner.png
+https://i.ibb.co/8jQJNqF/img-1.jpg
+https://i.ibb.co/H4j8qKs/img-2.jpg
+https://i.ibb.co/fnLJv9Y/img-3.jpg
+https://i.ibb.co/zhbbP4w/img-4.jpg
+https://i.ibb.co/rZFvb36/img-5.jpg
+https://i.ibb.co/6R2tsS0/img-6.jpg  
+
+-------------------------------------------------------------
+
+const routes = [
+  { id: 1, path: "/", name: "Home" },
+  { id: 2, path: "/books", name: "Books" },
+  { id: 3, path: "/pages-to-read", name: "Pages to Read" },
+  { id: 4, path: "/authors", name: "Authors" },
+  { id: 5, path: "/about-us", name: "About Us" }
+];
+
+
+https://i.ibb.co/S5cRKFk/bbanner.png
+https://i.ibb.co/60BcGQz/b2.png
+https://i.ibb.co/RHK67R2/b3.png
+https://i.ibb.co/mFRq091/b4.png
+https://i.ibb.co/n70W6Yg/b5.png
+https://i.ibb.co/qMDs22Q/b6.png
+https://i.ibb.co/9pwtMtj/b7.png
+https://i.ibb.co/2Km0VBn/b8.png
+https://i.ibb.co/LZsghNZ/b9.png
+https://i.ibb.co/19P2cDr/b1.png
